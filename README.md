@@ -45,7 +45,7 @@ The full analysis, tables and recommendations are in [REPORT.md](REPORT.md).
 - **Tokens:** USDT (`0xdac17f958d2ee523a2206206994597c13d831ec7`) and USDC (`0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48`), both 6 decimals
 - **Window:** 2026-11-01 to 2026-11-07 inclusive (7 full days, UTC)
 - **Threshold:** a transfer of USD 1,000,000 or more
-- **Queries run:** [add the date you ran them]
+- **Queries run:** 11 Nov 2026
 - **USD value:** raw token value divided by 1,000,000, which treats each stablecoin as exactly USD 1
 - **Shares:** measured against the total volume in `daily.csv`
 - **Address labels:** Etherscan public name tags and contract-creator tags for the top 10 receivers and one additional sender, checked on 2026-11-11 and stored in `labels.csv`
