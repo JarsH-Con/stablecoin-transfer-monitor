@@ -28,7 +28,7 @@ To build a repeatable method for detecting and summarizing large stablecoin move
 | Window | 2026-11-01 to 2026-11-07 inclusive, 7 full days, UTC |
 | Large transfer | USD 1,000,000 or more |
 | USD conversion | Raw value divided by 1,000,000; each token is treated as USD 1 |
-| Queries run | [add the date you ran them] |
+| Queries run | 11 Nov 2026 |
 | Tools | Google BigQuery (SQL), Python (pandas, matplotlib) |
 | Shares | Measured against the total volume in `daily.csv` |
 | Address labels | Etherscan name tags and contract-creator tags, checked 2026-11-11 (`labels.csv`) |
